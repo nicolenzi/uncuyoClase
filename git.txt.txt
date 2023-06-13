@@ -1,1 +1,5 @@
 Nicolas Lenzi
+
+Git es una herramienta generalmente para programadores en que se lleva un registro por version de todos los cambios de archivos o carpetas.
+Nos facilita el uso del contenido porque podemos compartirlo con otros ursuarios o computadoras y si tenemos algun problema con archivos o 
+carpetas podemos volver a una version que funcionaba mejor 
